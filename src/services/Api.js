@@ -2,7 +2,8 @@ import axios from "axios";
 
 const API_URL =
   "https://script.google.com/macros/s/AKfycbwO6HHqYqYIimfkfUNH8xz4I1pN_0NCh0xLBwzxO9n61sOPjckGL2xCFyvd8m6-Z-4/exec";
-     
+
+
 async function postData(data) {
 
   const formData =
@@ -10,16 +11,20 @@ async function postData(data) {
 
   for (const key in data) {
 
-    formData.append(key, data[key]);
+    formData.append(
+      key,
+      data[key]
+    );
   }
 
-  const response = await fetch(
-    API_URL,
-    {
+  const response =
+    await fetch(API_URL, {
+
       method: "POST",
+
       body: formData,
-    }
-  );
+
+    });
 
   return await response.json();
 }
@@ -31,12 +36,17 @@ export const loginStudent = (
 ) => {
 
   return postData({
+
     action: "login",
+
     username,
+
     password,
+
   });
 };
 
+// DASHBOARD
 export const getDashboardData = (
   username
 ) => {

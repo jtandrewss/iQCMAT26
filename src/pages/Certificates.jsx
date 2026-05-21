@@ -7,7 +7,7 @@ import Header from "../components/Header";
 import Sidebar from "../components/Sidebar";
 
 import {
-  getCertificates,
+  getDashboardData,
 } from "../services/api";
 
 function Certificates() {

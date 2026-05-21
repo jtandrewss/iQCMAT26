@@ -46,7 +46,7 @@ function Login() {
       <div className="bg-slate-800 p-10 rounded-2xl w-96">
 
         <h1 className="text-3xl font-bold mb-8 text-center">
-          Student Login (ALL CAPS)
+          Student Login
         </h1>
 
         <input

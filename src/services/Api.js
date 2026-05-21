@@ -1,8 +1,8 @@
 import axios from "axios";
 
 const API_URL =
-  "https://script.google.com/macros/s/AKfycbwqi6CmL0ruC-87Sl26wKkkSgPLhSHCFCGKoac9DYctjc8BLRFaYqMyhAOtEpbOTnf1/exec";
-  
+  "https://script.google.com/macros/s/AKfycbwO6HHqYqYIimfkfUNH8xz4I1pN_0NCh0xLBwzxO9n61sOPjckGL2xCFyvd8m6-Z-4/exec";
+     
 async function postData(data) {
 
   const formData =

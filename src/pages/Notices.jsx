@@ -75,7 +75,7 @@ function Notices() {
                     </p>
                     <div className="flex gap-4">
                       <a
-                        href="/images/inv-vis.png"
+                        href="/images/inv-is.png"
                         target="_blank"
                         rel="noreferrer"
                         className="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-xl transition"

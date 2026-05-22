@@ -86,10 +86,10 @@ function Reports() {
 
               </h2>
 
-              <p className="mt-3 text-lg text-green-400">  {projects.week1} </p>
+              <p className="mt-3 text-lg text-green-400">  
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
-              Submit Week-1 Report </a>
+              Submit Week-1 Report </a> Status: {projects.week1} </p>
             </div>
 
             {/* Week 2 */}
@@ -97,10 +97,10 @@ function Reports() {
             <div className="border-b border-slate-700 pb-6">
 
               <h2 className="text-2xl font-bold">  Week 2 Report: Due by June 6, 2026, 6:00pm  </h2>
-              <p className="mt-3 text-lg text-yellow-400"> {projects.week2} </p>
+              <p className="mt-3 text-lg text-yellow-400"> 
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
-              Submit Week-2 Report </a>
+              Submit Week-2 Report </a> Status: {projects.week2} </p>
             </div>
 
             {/* Week 3 */}
@@ -108,10 +108,10 @@ function Reports() {
             <div className="border-b border-slate-700 pb-6">
 
               <h2 className="text-2xl font-bold">  Week 3 Report: Due by June 12, 2026, 6:00pm  </h2>
-              <p className="mt-3 text-lg text-yellow-400"> {projects.week3} </p>
+              <p className="mt-3 text-lg text-yellow-400">
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
-              Submit Week-3 Report </a>
+              Submit Week-3 Report </a> Status: {projects.week3} </p>
             </div>
 
             {/* Week 4 */}
@@ -119,10 +119,10 @@ function Reports() {
             <div className="border-b border-slate-700 pb-6">
 
               <h2 className="text-2xl font-bold">  Week 4 Report: Due by June 19, 2026, 6:00pm   </h2>
-              <p className="mt-3 text-lg text-yellow-400"> {projects.week4} </p>
+              <p className="mt-3 text-lg text-yellow-400"> 
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
-              Submit Week-4 Report</a>
+              Submit Week-4 Report</a> Status: {projects.week4} </p>
             </div>
 
             {/* Week 5 */}
@@ -130,27 +130,34 @@ function Reports() {
             <div className="border-b border-slate-700 pb-6">
 
               <h2 className="text-2xl font-bold">  Week 5 Report: Due by June 26, 2026, 6:00pm  </h2>
-              <p className="mt-3 text-lg text-yellow-400"> {projects.week5} </p>
+              <p className="mt-3 text-lg text-yellow-400"> 
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
-              Submit Week-5 Report </a>
+              Submit Week-5 Report </a> Status: {projects.week5} </p>
+            </div>
+
+
+            {/* Final Presentation Section */}
+            <div className="pt-6 border-t border-slate-700">
+              <h2 className="text-2xl font-bold mb-6">
+                Upload Final PPT submission: Due by July 01, 2026, 6:00pm
+              </h2>
+              <p className="mt-3 text-lg text-yellow-400"> 
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
+            target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
+              Submit Final PPT file </a>  Status: {projects.week6} </p>
             </div>
 
 
             {/* Final Report Section */}
-
             <div className="pt-6 border-t border-slate-700">
-
               <h2 className="text-2xl font-bold mb-6">
-
                 Upload Final Report: Due by July 06, 2026, 6:00pm
-
               </h2>
-
+              <p className="mt-3 text-lg text-yellow-400"> 
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
-              Submit FInal Report </a>
-
+              Submit FInal Report </a>  Status: {projects.week7} </p>
             </div>
 
           </div>

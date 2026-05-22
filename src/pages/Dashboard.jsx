@@ -178,42 +178,13 @@ function Dashboard() {
             </h2>
 
             <div className="space-y-6">
-              <div>
-                <h3 className="text-xl">
-                  Week 1
-                </h3>
-                <p className="text-green-400">
-                  {
-                    dashboard.projects
-                      .week1
-                  }
-                </p>
-              </div>
-
-              <div>
-
-                <h3 className="text-xl">
-                  Week 2
-                </h3>
-                <p className="text-yellow-400">
-                  {
-                    dashboard.projects
-                      .week2
-                  }
-                </p>
-              </div>
-
-              <div>
-                <h3 className="text-xl">
-                  Week 3
-                </h3>
-                <p className="text-yellow-400">
-                  {
-                    dashboard.projects
-                      .week3
-                  }
-                </p>
-              </div>
+              <div>  <h3 className="text-xl">  Week 1 : {dashboard.projects.week1}</h3> </div>
+              <div>  <h3 className="text-xl">  Week 2 : {dashboard.projects.week2}</h3> </div>
+              <div>  <h3 className="text-xl">  Week 3 : {dashboard.projects.week3}</h3> </div>
+              <div>  <h3 className="text-xl">  Week 4 : {dashboard.projects.week4}</h3> </div>
+              <div>  <h3 className="text-xl">  Week 5 : {dashboard.projects.week5}</h3> </div>
+              <div>  <h3 className="text-xl">  Final PPT : {dashboard.projects.week6}</h3> </div>
+              <div>  <h3 className="text-xl">  Final Report : {dashboard.projects.week7}</h3> </div>
             </div>
           </div>
 
@@ -240,7 +211,8 @@ function Dashboard() {
               ) : (
 
                 <p>
-                  Complete internship requirements to download the certificate.
+                  Internship requirements not completed. 
+                  Please complete all requirements to download the certificate.
                 </p>
               )
             }

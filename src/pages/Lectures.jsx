@@ -131,7 +131,7 @@ function Lectures() {
                                 className="bg-blue-600 px-4 py-2 rounded-lg inline-block hover:bg-blue-700"
                               >
 
-                                Join
+                                Click to Join
 
                               </a>
 

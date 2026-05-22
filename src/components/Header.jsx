@@ -19,30 +19,19 @@ function Header() {
 
           {/* Logos */}
           <div className="flex flex-wrap justify-center items-center gap-4">
-
             <img src={qcmat} alt="QCMAT" className="h-14 hover:scale-110 transition duration-300" />
-
             <img src={sarthii} alt="Sarthii" className="h-14 hover:scale-110 transition duration-300" />
-
             <img src={sgs} alt="SGSITS" className="h-14 hover:scale-110 transition duration-300" />
-
             <img src={nqm} alt="NQM" className="h-14 hover:scale-110 transition duration-300" />
-
             <img src={ipa} alt="IPA" className="h-14 hover:scale-110 transition duration-300" />
-
             <img src={iic} alt="IIC" className="h-14 hover:scale-110 transition duration-300" />
-
             <img src={mic} alt="MIC" className="h-14 hover:scale-110 transition duration-300" />
-
           </div>
 
           {/* Portal Title */}
           <div className="text-center">
-
             <h1 className="text-4xl font-extrabold bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
-
-              QCMAT Internship Portal
-
+              iQCMAT Internship Portal
             </h1>
 
             <p className="text-slate-400 mt-2">

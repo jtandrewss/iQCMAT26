@@ -15,6 +15,7 @@ import Attendance from "./pages/Attendance";
 import Lectures from "./pages/Lectures";
 import Reports from "./pages/Reports";
 import Certificates from "./pages/Certificates";
+import Notices from "./pages/Notices";
 
 function App() {
 
@@ -134,6 +135,11 @@ function App() {
         <Route
           path="*"
           element={<Navigate to="/" />}
+        />
+
+        <Route
+          path="/notices"
+          element={<Notices />}
         />
 
       </Routes>

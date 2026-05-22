@@ -5,6 +5,8 @@ import {
   BookOpen,
   FileText,
   Award,
+  MessageSquare,
+  Bell,
   LogOut,
 } from "lucide-react";
 
@@ -40,6 +42,13 @@ const handleLogout = () => {
 
           Dashboard
 
+        </button>
+
+        <button onClick={() => navigate("/notices")} className="flex items-center gap-4 w-full hover:bg-slate-700 p-4 rounded-2xl transition">
+
+          <MessageSquare />
+
+          Notice Board
         </button>
 
         <button onClick={() => navigate("/attendance")} className="flex items-center gap-4 w-full hover:bg-slate-700 p-4 rounded-2xl transition">

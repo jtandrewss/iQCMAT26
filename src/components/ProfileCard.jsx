@@ -22,6 +22,9 @@ function ProfileCard() {
           <p className="text-slate-400 mt-2">
             Internship Domain: {student.domain} 
           </p>
+          <p className="text-slate-400 mt-2">
+            Internship Mentor: {student.mentor} 
+          </p>
         </div>
       </div>
     </div>

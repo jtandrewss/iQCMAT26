@@ -88,7 +88,7 @@ function Dashboard() {
                   item =>
                     item === "Submitted"
                 ).length
-              }
+              + " of 7"}
               color="text-yellow-400"
             />
 

@@ -79,13 +79,9 @@ function Reports() {
             {/* Week 1 */}
 
             <div className="border-b border-slate-700 pb-6">
-
               <h2 className="text-2xl font-bold">
-
                 Week 1 Report: Due by May 30, 2026, 6:00pm
-
               </h2>
-
               <p className="mt-3 text-lg text-green-400">  
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
@@ -157,7 +153,7 @@ function Reports() {
               <p className="mt-3 text-lg text-yellow-400"> 
              <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
-              Submit FInal Report </a>  Status: {projects.week7} </p>
+              Submit Final Report </a>  Status: {projects.week7} </p>
             </div>
 
           </div>

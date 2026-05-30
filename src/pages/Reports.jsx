@@ -80,10 +80,10 @@ function Reports() {
 
             <div className="border-b border-slate-700 pb-6">
               <h2 className="text-2xl font-bold">
-                Week 1 Report: Due by May 30, 2026, 6:00pm
+                Week 1 Report: Due by May 31, 2026, 6:00pm
               </h2>
               <p className="mt-3 text-lg text-green-400">  
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSczC6_YmneLzjLEzDlVqEDcC-PoX8MaJ8K0QDZrQCo5sUXapA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
               Submit Week-1 Report </a> Status: {projects.week1} </p>
             </div>
@@ -94,7 +94,7 @@ function Reports() {
 
               <h2 className="text-2xl font-bold">  Week 2 Report: Due by June 6, 2026, 6:00pm  </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSczC6_YmneLzjLEzDlVqEDcC-PoX8MaJ8K0QDZrQCo5sUXapA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
               Submit Week-2 Report </a> Status: {projects.week2} </p>
             </div>
@@ -105,7 +105,7 @@ function Reports() {
 
               <h2 className="text-2xl font-bold">  Week 3 Report: Due by June 12, 2026, 6:00pm  </h2>
               <p className="mt-3 text-lg text-yellow-400">
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSczC6_YmneLzjLEzDlVqEDcC-PoX8MaJ8K0QDZrQCo5sUXapA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
               Submit Week-3 Report </a> Status: {projects.week3} </p>
             </div>
@@ -116,7 +116,7 @@ function Reports() {
 
               <h2 className="text-2xl font-bold">  Week 4 Report: Due by June 19, 2026, 6:00pm   </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSczC6_YmneLzjLEzDlVqEDcC-PoX8MaJ8K0QDZrQCo5sUXapA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
               Submit Week-4 Report</a> Status: {projects.week4} </p>
             </div>
@@ -127,7 +127,7 @@ function Reports() {
 
               <h2 className="text-2xl font-bold">  Week 5 Report: Due by June 26, 2026, 6:00pm  </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSczC6_YmneLzjLEzDlVqEDcC-PoX8MaJ8K0QDZrQCo5sUXapA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
               Submit Week-5 Report </a> Status: {projects.week5} </p>
             </div>
@@ -139,7 +139,7 @@ function Reports() {
                 Upload Final PPT submission: Due by July 01, 2026, 6:00pm
               </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSczC6_YmneLzjLEzDlVqEDcC-PoX8MaJ8K0QDZrQCo5sUXapA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
               Submit Final PPT file </a>  Status: {projects.week6} </p>
             </div>
@@ -151,7 +151,7 @@ function Reports() {
                 Upload Final Report: Due by July 06, 2026, 6:00pm
               </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIVV6hR_M12pE_h9P0BFX7yJfvZ2KsVv1fBPyZevyKwI_iyA/viewform?usp=publish-editor"
+             <a href="https://docs.google.com/forms/d/e/1FAIpQLSczC6_YmneLzjLEzDlVqEDcC-PoX8MaJ8K0QDZrQCo5sUXapA/viewform?usp=publish-editor"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
               Submit Final Report </a>  Status: {projects.week7} </p>
             </div>

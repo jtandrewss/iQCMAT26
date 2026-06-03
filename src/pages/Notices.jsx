@@ -48,12 +48,18 @@ function Notices() {
               </ul>
               <br />
               Certificate generation will be enabled automatically after successful completion of internship requirements.
-          <h2><a
+              <h2><a
                         href="https://drive.google.com/drive/folders/1V2W_hYcDjmkgcUDXfcH1oti3hz3-O-iH?usp=sharing"
                         download
                         className="bg-green-600 hover:bg-green-700 px-4 py-2 rounded-xl transition"
                       >
                         Link to Video Recording and Lectures Slides.
+                      </a> </h2>
+              <h2><a
+                        href="https://forms.gle/tSGHxowYiuboZT5b6"
+                                                className="bg-red-600 hover:bg-green-700 px-4 py-2  transition"
+                      >
+                        .... SELECT INTERNSHIP OFFER ....
                       </a> </h2>
             </div>
           </div>

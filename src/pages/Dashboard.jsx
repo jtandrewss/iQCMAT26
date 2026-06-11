@@ -158,7 +158,10 @@ function Dashboard() {
                       >
                         <td className="py-4"> {lecture.date}  </td>
                         <td> {lecture.topic} </td>
-                        <td> {lecture.link}  </td>
+                        <td>  <a href={lecture.link} target="_blank" className="bg-blue-600 px-4 py-2 rounded-lg">
+                            Click here to Join
+                          </a>
+                        </td>
                       </tr>
                     )
                   )

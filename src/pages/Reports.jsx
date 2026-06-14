@@ -139,7 +139,7 @@ function Reports() {
                 Upload Final PPT submission: Due by July 01, 2026, 6:00pm
               </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSczC6_YmneLzjLEzDlVqEDcC-PoX8MaJ8K0QDZrQCo5sUXapA/viewform?usp=publish-editor"
+             <a href="https://forms.gle/8UQa9FbGajjTP5Ss6"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
               Submit Final PPT file </a>  Status: {projects.week6} </p>
             </div>
@@ -151,7 +151,7 @@ function Reports() {
                 Upload Final Report: Due by July 06, 2026, 6:00pm
               </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
-             <a href="https://docs.google.com/forms/d/e/1FAIpQLSczC6_YmneLzjLEzDlVqEDcC-PoX8MaJ8K0QDZrQCo5sUXapA/viewform?usp=publish-editor"
+             <a href="https://forms.gle/57tLPgamopfg1PDv6"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
               Submit Final Report </a>  Status: {projects.week7} </p>
             </div>

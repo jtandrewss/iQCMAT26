@@ -92,7 +92,7 @@ function Reports() {
 
             <div className="border-b border-slate-700 pb-6">
 
-              <h2 className="text-2xl font-bold">  Week 2 Report: Due by June 6, 2026, 6:00pm  </h2>
+              <h2 className="text-2xl font-bold">  Week 2 Report: Due by June 7, 2026, 9:00pm  </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
              <a href="https://forms.gle/cjfWUwzqBKf6hEjT7"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
@@ -103,7 +103,7 @@ function Reports() {
 
             <div className="border-b border-slate-700 pb-6">
 
-              <h2 className="text-2xl font-bold">  Week 3 Report: Due by June 12, 2026, 6:00pm  </h2>
+              <h2 className="text-2xl font-bold">  Week 3 Report: Due by June 14, 2026, 9:00pm  </h2>
               <p className="mt-3 text-lg text-yellow-400">
              <a href="https://forms.gle/Up6KQ24PzkiLEtLS9"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
@@ -114,7 +114,7 @@ function Reports() {
 
             <div className="border-b border-slate-700 pb-6">
 
-              <h2 className="text-2xl font-bold">  Week 4 Report: Due by June 19, 2026, 6:00pm   </h2>
+              <h2 className="text-2xl font-bold">  Week 4 Report: Due by June 21, 2026, 9:00pm   </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
              <a href="https://forms.gle/A4fXNxzbQz7Yj57g9"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
@@ -125,7 +125,7 @@ function Reports() {
 
             <div className="border-b border-slate-700 pb-6">
 
-              <h2 className="text-2xl font-bold">  Week 5 Report: Due by June 26, 2026, 6:00pm  </h2>
+              <h2 className="text-2xl font-bold">  Week 5 Report: Due by June 28, 2026, 9:00pm  </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
              <a href="https://forms.gle/iYBj95gQ35VHXZSt8"
             target="_blank"   rel="noreferrer"  className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-xl inline-block transition">
@@ -136,7 +136,7 @@ function Reports() {
             {/* Final Presentation Section */}
             <div className="pt-6 border-t border-slate-700">
               <h2 className="text-2xl font-bold mb-6">
-                Upload Final PPT submission: Due by July 01, 2026, 6:00pm
+                Upload Final PPT submission: Due by July 01, 2026, 9:00pm
               </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
              <a href="https://forms.gle/8UQa9FbGajjTP5Ss6"
@@ -148,7 +148,7 @@ function Reports() {
             {/* Final Report Section */}
             <div className="pt-6 border-t border-slate-700">
               <h2 className="text-2xl font-bold mb-6">
-                Upload Final Report: Due by July 06, 2026, 6:00pm
+                Upload Final Report: Due by July 05, 2026, 9:00pm
               </h2>
               <p className="mt-3 text-lg text-yellow-400"> 
              <a href="https://forms.gle/57tLPgamopfg1PDv6"
